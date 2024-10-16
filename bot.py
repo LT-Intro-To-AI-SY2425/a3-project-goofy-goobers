@@ -41,7 +41,7 @@ def search_pa_list(src: List[str]) -> List[str]:
     return ["I don't understand"]
 
 def query_loop() -> None:
-    print("Welcome to the movie database!\n")
+    print("Welcome to the meme database!\n")
     while True:
         try:
             print()
