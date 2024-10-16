@@ -1,6 +1,6 @@
 from typing import List, Tuple
 
-memes_db: List[Tuple[str,int,int,str]] = [    
+meme_db: List[Tuple[str,int,int,str]] = [    
 (
     "dat boi",
     2016,
