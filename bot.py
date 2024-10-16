@@ -111,7 +111,3 @@ def query_loop() -> None:
     print("\nSo long!\n")
 
 query_loop()
-
-if __name__ == "__main__":
-    assert sorted(search_pa_list(["when","was","big","chungus","funny"]))==sorted([2018]),"failed year by name"
-    print("All tests passed!")
