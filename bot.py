@@ -56,11 +56,11 @@ def name_after_year(matches: List[str]) -> List[str]:
             result.append(get_name(i))
     return result
 
-def desc_by_name(matches: List[str]) -> List[int]:
+def desc_by_name(matches: List[str]) -> List[str]:
     result:List[int]=[]
     for i in meme_db:
         if get_name(i)==matches[0]:
-            result.append(int(get_desc(i)))
+            result.append(get_desc(i))
     return result
 
 def rank_by_name(matches: List[str]) -> List[int]:
