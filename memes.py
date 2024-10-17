@@ -5,7 +5,7 @@ meme_db: List[Tuple[str,int,int,str]] = [
     "dat boi",
     2016,
     1,
-    "A Frog on a Unicycle, he says o shit waddup",
+    "A Frog on a Unicycle, he says o waddup (there was never any profanity in this catchphrase, gaslighting isn't real, it's all in your head)",
 ),
 
 (
