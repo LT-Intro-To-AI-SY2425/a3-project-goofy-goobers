@@ -19,21 +19,21 @@ meme_db: List[Tuple[str,int,int,str]] = [
     "ohio",
     2021,
     20,
-    "It's a messed up place, the things that come out of there, are the things of the unspoken",
+    "It's a messed up place, the things that come out of there should be left unspoken",
 ),
 
 (
     "rizz",
     2021,
     17,
-    "Unspoken Rizz",
+    "Shortened version of Charisma",
 ),
 
 (
     "nine plus ten",
     2013,
     19,
-    "its twenty one",
+    "Popular vine in which a child confidently asserts that the answer is 21",
 ),
 
 (
@@ -54,84 +54,84 @@ meme_db: List[Tuple[str,int,int,str]] = [
     "among us",
     2020,
     15,
-    "scary imposter among us game by innersloth, the people that made henry stickmen",
+    "Scary imposter among us game by innersloth, the people that made henry stickmen",
 ),
 
 (
     "herobrine",
     2010,
     18,
-    "Scary steve man",
+    "Evil mythical entity which haunts Minecraft worlds",
 ),
 
 (
     "in the thick of it",
     2024,
     16,
-    "song by the king of rap, KSI",
+    "Song by the king of rap, KSI",
 ),
 
 (
     "mlg",
     2013,
     14,
-    "snopp dogg, doritos, mtn dew, illumanti,",
+    "A group of often combined memes such as snopp dogg, doritos, mtn dew, and the illumanti",
 ),
 
 (
     "sprite cranberry",
     2017,
     13,
-    "you want a sprite cranberry",
+    "Holiday seasonal flavor of the popular soft drink, famously advertized by LeBron James",
 ),
 
 (
     "doge",
     2014,
     12,
-    "its a wow dog",
+    "A picture of a dog often accompanied by grammatically incorrect exclamations of surprise",
 ),
 
 (
     "dancing baby",
     1996,
     11,
-    "its a funny dancing baby",
+    "Often credited as the first meme ever, a GIF of a 3D animated baby dancing",
 ),
 
 (
     "peanut butter jelly time",
     2002,
     10,
-    "its peanut butter jelly time!",
+    "A song and accompanying GIF of a dancing banana made by the Buckwheat Boyz",
 ),
 
 (
     "baby yoda",
     2019,
     9,
-    "yoda but a baby",
+    "A young creature beonging to the same species as Yoda from Star Wars, first appearing in the Mandalorian series",
 ),
 
 (
     "trollface",
     2008,    
     8,
-    "its a funny trollface",
+    "A face typically used to signify that one is playing a trick on someone else",
 ),
 
 (
     "nyan cat",
     2013,
     7,
-    "poptart cat in space",
+    "Animation of a poptart with a ca's head flying through space with an iconic song",
 ),
 
 (
     "crank that",
     2007,
     6,
-    "Soulja boy, now watch me ohhhhhh",
+    "Song by Soulja Boy",
 ),
 
 (
@@ -145,6 +145,6 @@ meme_db: List[Tuple[str,int,int,str]] = [
     "boneless pizza",
     2016,
     3,
-    "can I get that boneless pizza?",
+    "Famous audio of a man ordering a pizza without bones on it",
 )
 ]
